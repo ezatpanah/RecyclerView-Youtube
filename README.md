@@ -1,5 +1,7 @@
 # RecyclerView-Youtube
 
-<center>
-<img alt="Ezatpanah RecyclerView-Youtube" src="Recyclerview.jpg" width="60%">  
-</center>
+YouTube Video :
+https://www.youtube.com/watch?v=-VIGq7hBgeM
+ 
+<br>  
+<a href="https://www.youtube.com/watch?v=JxsJxuNIcMk" target="_blank"><img alt="Ezatpanah ViewBinding-YouTube" src="viewBinding.jpg" width="60%"></a>
